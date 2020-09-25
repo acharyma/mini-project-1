@@ -1,0 +1,62 @@
+.by{
+    color: black;
+}
+
+p{
+    font-size: 13.5px;
+    color: #ffd700;
+    max-width: 1050px;
+}
+
+.ours{
+    background-color: black;
+}
+
+.bad p{
+    color: #42210b;
+}
+
+.bad .marker{
+    color: black;
+}
+
+.bad h5{
+    color: black;
+}
+
+.line{
+    border-top: solid black;
+}
+
+h5{
+    color: white
+}
+
+
+
+.main-header{
+    font-family: Oswald;
+    
+}
+
+.header{
+    font-family: Oswald;
+    
+}
+
+.good{
+    background-color: #42210b;
+}
+
+.bad{
+    background-color: #f6e27a;
+}
+
+
+.margin-left{
+    margin-left: 40px;
+}
+.marker{
+    font-family: "Permanent Marker";
+    color: white;
+}
